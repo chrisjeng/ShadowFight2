@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<CurrentUser ID="1" />
+<Warriors>
+	<Warrior ID="1" FirstName="NAME_SHADOW" Voice="Male" Money="610" Bonus="14" Strength="3" Stamina="3" Level="3" Experience="170" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_ROBE" Helm="HELM_LIGHT" Weapon="WEAPON_SAI" Ranged="NoRanged" Magic="NoMagic" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_1" ServerUserID="7005125" AskedForDumps="1" IndexSlider="0" PaidBonus="0" PaidMoney="0" LotteryLevel="0" LotteryExperience="0" LastDailyTimeOffset="0" LastEnergyTimeOffset="0" LastDumpTime="1950949949" LotteryPlayedToday="0" FightID="0" Language="eng" TrySocialLogin="1" DailyProgress="0" DailyPlayTime="0" PeriodicPlayTime="0" GPlusAutoLogin="1" GPlusFiledLogins="0" FacebookLiked="0" FightIDS="ZONE_1|Tournament|6" StarterPackTimerEndTime="1403392145">
+		<Items>
+			<Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="Fists" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="NoRanged" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="NoMagic" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="WEAPON_KNIVES" Equipped="0" Count="1" UpgradeLevel="100" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="ARMOR_ROBE" Equipped="1" Count="1" UpgradeLevel="200" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="HELM_LIGHT" Equipped="1" Count="1" UpgradeLevel="200" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="Energy_Refill" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="WEAPON_SAI" Equipped="1" Count="1" UpgradeLevel="300" DeliveryTime="-1" AcquireType="Item" />
+		</Items>
+		<Battles>
+			<Battle Name="ZONE_1|BOSS_LYNX|" Locked="0" />
+			<Battle Name="ZONE_2|BOSS_HERMIT_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_3|BOSS_BUTCHER_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_4|BOSS_WASP_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_5|BOSS_HUNTRESS_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_6|BOSS_SAMURAI_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_1|Tournament|" Locked="0" />
+			<Battle Name="ZONE_1|Duel|" Locked="0" />
+			<Battle Name="ZONE_1|Survival|" Locked="0" />
+		</Battles>
+		<Sounds>
+			<Sound Value="1.0" Mute="0" />
+			<Music Value="1.0" Mute="0" />
+		</Sounds>
+		<SessionSettings>
+			<VideoAdCounterCurrent Value="0" />
+			<VideoAdTimer Value="0" />
+			<VideoAdCounter Value="10" />
+			<AdvertRate Value="0" />
+			<ShowDojoDisciple Value="0" />
+		</SessionSettings>
+		<Fights>
+			<Fight ID="-1" IDS="ZONE_1|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1403390336" RandomGroupSeed="850859584" RandomRuleSeed="871515392" />
+			<Fight ID="-1" IDS="ZONE_2|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1403390336" RandomGroupSeed="2462678" RandomRuleSeed="933262656" />
+			<Fight ID="-1" IDS="ZONE_3|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1403390336" RandomGroupSeed="2462678" RandomRuleSeed="933262656" />
+			<Fight ID="-1" IDS="ZONE_4|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1403390336" RandomGroupSeed="2462678" RandomRuleSeed="933262656" />
+			<Fight ID="-1" IDS="ZONE_5|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1403390336" RandomGroupSeed="2462678" RandomRuleSeed="933262656" />
+			<Fight ID="-1" IDS="Punchbag|Training|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1403390343" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="Punchbag|Bosses|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400173740" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400173852" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400173936" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400174030" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400174119" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400174289" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400174423" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|2" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400174786" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400313220" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_6|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1403390336" RandomGroupSeed="2462678" RandomRuleSeed="933262656" />
+		</Fights>
+		<Quests>
+			<Quests>
+				<Quest Name="AttachScripts_Zone1" FileName="assets/quests.xml" />
+				<Quest Name="UpgradesCleanup" FileName="assets/quests.xml" />
+				<Quest Name="SetTime0" FileName="assets/quests.xml" />
+				<Quest Name="lang_SessionStartCheck" FileName="assets/quests.xml" />
+				<Quest Name="UpdateStart" FileName="assets/quests.xml" />
+				<Quest Name="FirstGuardBeaten" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'2'1Final" FileName="assets/quests.xml" />
+				<Quest Name="SetShareFlag" FileName="assets/quests.xml" />
+				<Quest Name="LevelUp" FileName="assets/quests.xml" />
+				<Quest Name="FirstTournamentWon" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="DiscountRollFailure" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RatingOffer" FileName="assets/quests.xml" />
+				<Quest Name="ArmorRegister" FileName="assets/quests.xml" />
+				<Quest Name="HelmRegister" FileName="assets/quests.xml" />
+				<Quest Name="EnergyTutor" FileName="assets/quests.xml" />
+				<Quest Name="ShowUpgrades" FileName="assets/quests.xml" />
+				<Quest Name="TournamentAdvice" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="DuelUnlock" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="ShowNews" FileName="assets/quests.xml" />
+				<Quest Name="FBFirstTimeOffer" FileName="assets/quests.xml" />
+				<Quest Name="SurvivalUnlock" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Update1'5'2'1To1'5'3'0" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part5" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'0'0Part3" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'0'0Final" FileName="assets/quests.xml" />
+				<Quest Name="StarterPackDialog" FileName="assets/quest_extensions/zone_1/core.xml" />
+				<Quest Name="PerksWipe" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'0'1Final" FileName="assets/quests.xml" />
+			</Quests>
+			<Variables>
+				<Variable Name="TimeSet" Value="1" />
+				<Variable Name="LastRatingOfferTime" Value="1.40031e+09" />
+				<Variable Name="UpdateTo1'5'2'1Mark" Value="1" />
+				<Variable Name="langPrevious" Value="eng" />
+				<Variable Name="langCurrent" Value="eng" />
+				<Variable Name="ChallengeUnlockCount" Value="0" />
+				<Variable Name="DuelUnlockCount" Value="0" />
+				<Variable Name="StrangerTriggerLevel" Value="4" />
+				<Variable Name="ShareFlag" Value="0" />
+				<Variable Name="rnd100" Value="47" />
+				<Variable Name="ActiveDiscount" Value="0" />
+				<Variable Name="ArmorRegister" Value="1" />
+				<Variable Name="HelmRegister" Value="1" />
+				<Variable Name="EnergyTutor" Value="1" />
+				<Variable Name="TournamentAdvice" Value="1" />
+				<Variable Name="ShowUpgrades" Value="1" />
+				<Variable Name="FacebookOffered" Value="1" />
+				<Variable Name="SurvivalUnlock" Value="1" />
+				<Variable Name="FreeReminderShown" Value="0" />
+				<Variable Name="UpdateTo1'5'3'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'5'4'0Mark" Value="1" />
+				<Variable Name="DiscipleFlag" Value="0" />
+				<Variable Name="CurrentCoinItem" Value="Chest_Coins" />
+				<Variable Name="RubyFocusItem" Value="Unlimited_Energy" />
+				<Variable Name="UpdateTo1'6'0'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'6'0'1Mark" Value="1" />
+				<Variable Name="UpdateTo1'3'0'0Wipe" Value="1" />
+				<Variable Name="UpdateTo1'6'0'0Wipe" Value="1" />
+			</Variables>
+		</Quests>
+		<Counters>
+			<Counter Name="FirstHits" CurrentValue="17" />
+			<Counter Name="HeadHitRound" CurrentValue="7" />
+			<Counter Name="HeadKick" CurrentValue="42" />
+			<Counter Name="KickFights" CurrentValue="12" />
+			<Counter Name="Unarmed" CurrentValue="1" />
+			<Counter Name="BodyguardsWin" CurrentValue="2" />
+			<Counter Name="PerfectRound" CurrentValue="1" />
+			<Counter Name="FastRounds" CurrentValue="1" />
+			<Counter Name="StyleAggressive" CurrentValue="1" />
+			<Counter Name="BarelyAliveRounds" CurrentValue="3" />
+			<Counter Name="Losses" CurrentValue="1" />
+		</Counters>
+		<Achievements>
+			<Achievement Name="achievement_name_kickfights_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_perfect_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_kickfights_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_aggresive_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_barelyalive_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_losses_1" ObtainedReward="false" />
+		</Achievements>
+		<RepostAchievements>
+			<RepostAchievement Name="achievement_name_firsthits_1" />
+			<RepostAchievement Name="achievement_name_headhitrounds_1" />
+			<RepostAchievement Name="achievement_name_kickfights_1" />
+			<RepostAchievement Name="achievement_name_kickfights_2" />
+			<RepostAchievement Name="achievement_name_unarmed_1" />
+			<RepostAchievement Name="achievement_name_bodyguards_1" />
+			<RepostAchievement Name="achievement_name_perfect_1" />
+			<RepostAchievement Name="achievement_name_perfect_2" />
+			<RepostAchievement Name="achievement_name_fastrounds_1" />
+			<RepostAchievement Name="achievement_name_kickfights_3" />
+			<RepostAchievement Name="achievement_name_aggresive_1" />
+			<RepostAchievement Name="achievement_name_barelyalive_1" />
+			<RepostAchievement Name="achievement_name_barelyalive_2" />
+			<RepostAchievement Name="achievement_name_losses_1" />
+			<RepostAchievement Name="achievement_name_losses_2" />
+		</RepostAchievements>
+		<Shop>
+			<Lock Name="ZONE_1_DONATE" />
+		</Shop>
+		<CounterItems>
+			<Perks>
+				<Item Name="PERK_DOUBLE_SWEEP" />
+				<Item Name="PERK_STRONG_HEAD" />
+				<Item Name="PERK_TOUGH_BODY" />
+			</Perks>
+			<Items>
+				<Item Name="Pile_Coins" />
+				<Item Name="Bag_Coins" />
+				<Item Name="Chest_Coins" />
+			</Items>
+		</CounterItems>
+	</Warrior>
+</Warriors>
+<Versions>
+	<Version Value="1.6.0" />
+	<DataVersion Value="1.6.0.1" />
+</Versions>

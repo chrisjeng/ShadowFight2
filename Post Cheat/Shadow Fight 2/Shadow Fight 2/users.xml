@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<CurrentUser ID="1" />
+<Warriors>
+	<Warrior ID="1" FirstName="NAME_SHADOW" Voice="Male" Money="9.99999e+08" Bonus="1.00005e+08" Strength="3" Stamina="3" Level="2" Experience="10" Power="9" PowerMax="10" PowerTimeMax="600" PowerSyncTime="1387632617" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_ROBE" Helm="HELM_LIGHT" Weapon="WEAPON_KNUCKLES" ShowUpgrades="0" IndexSlider="0" PaidBonus="2500" LotteryLevel="0" LotteryExperience="0" LastDailyTimeOffset="0" LastEnergyTimeOffset="0" LastLotteryTimeOffset="0" LotteryPlayedToday="0" LastDumpTime="0" LotteryDecksBought="0" LotteryDecksFree="0" FightID="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_1" ServerUserID="Vu_Zeus" AskedForDumps="1" IndexSlider="0" PaidBonus="0" PaidMoney="0" LotteryLevel="0" LotteryExperience="0" LastDailyTimeOffset="0" LastEnergyTimeOffset="0" LastDumpTime="1031040629" LotteryPlayedToday="0" FightID="0" Language="eng" TrySocialLogin="1" FightIDS="ZONE_1|Tournament|1">
+		<Items>
+			<Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" />
+			<Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" />
+			<Item Name="Fists" Equipped="0" Count="1" UpgradeLevel="0" />
+			<Item Name="WEAPON_KNIVES" Equipped="0" Count="1" UpgradeLevel="1" />
+			<Item Name="WEAPON_KNUCKLES" Equipped="1" Count="1" UpgradeLevel="2" />
+			<Item Name="ARMOR_ROBE" Equipped="1" Count="1" UpgradeLevel="2" />
+			<Item Name="HELM_LIGHT" Equipped="1" Count="1" UpgradeLevel="2" />
+		</Items>
+		<Battles>
+			<Battle Name="ZONE_1|BOSS_LYNX|" />
+			<Battle Name="ZONE_2|BOSS_HERMIT_LOCKED|" />
+			<Battle Name="ZONE_3|BOSS_BUTCHER_LOCKED|" />
+			<Battle Name="ZONE_4|BOSS_WASP_LOCKED|" />
+			<Battle Name="ZONE_1|Tournament|" />
+		</Battles>
+		<Sounds>
+			<Sound Value="1.0" Mute="0" />
+			<Music Value="1.0" Mute="0" />
+		</Sounds>
+		<Fights>
+			<Fight ID="-1" IDS="Punchbag|Training|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1387632766" />
+			<Fight ID="-1" IDS="Punchbag|Bosses|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1387631553" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1387631715" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|2" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1387632616" />
+		</Fights>
+		<Quests>
+			<Quests>
+				<Quest Name="UpdateStart" />
+				<Quest Name="FirstGuardBeaten" />
+				<Quest Name="UpdateTo1'1'0'1Final" />
+				<Quest Name="DifficultyAlert" />
+				<Quest Name="FirstTournamentWon" />
+				<Quest Name="LevelUp" />
+				<Quest Name="ArmorRegister" />
+				<Quest Name="HelmRegister" />
+			</Quests>
+			<Variables>
+				<Variable Name="UpdateTo1'1'0'1Mark" Value="1" />
+				<Variable Name="DifficultyAlert" Value="1" />
+				<Variable Name="ArmorRegister" Value="1" />
+				<Variable Name="HelmRegister" Value="1" />
+			</Variables>
+		</Quests>
+		<Stories>
+			<Story Value="11" />
+			<Story Value="10" />
+			<Story Value="16" />
+			<Story Value="15" />
+		</Stories>
+		<Counters>
+			<Counter Name="BlockedRound" CurrentValue="1" />
+			<Counter Name="FastRounds" CurrentValue="2" />
+			<Counter Name="FirstHits" CurrentValue="4" />
+			<Counter Name="HeadKick" CurrentValue="3" />
+			<Counter Name="PerfectRound" CurrentValue="1" />
+			<Counter Name="Unarmed" CurrentValue="2" />
+			<Counter Name="BodyguardsWin" CurrentValue="1" />
+			<Counter Name="Disarm" CurrentValue="1" />
+			<Counter Name="HeadHitRound" CurrentValue="1" />
+			<Counter Name="PunchFights" CurrentValue="1" />
+		</Counters>
+		<Achievements>
+			<Achievement Name="achievement_name_punchfights_1" />
+		</Achievements>
+		<Perks>
+			<Perk Level="2" Name="PERK_DOUBLE_SWEEP" />
+		</Perks>
+	</Warrior>
+</Warriors>
+<Versions>
+	<Version Value="1.1.0" />
+	<DataVersion Value="1.1.0.1" />
+</Versions>

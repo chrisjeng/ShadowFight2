@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<CurrentUser ID="1" />
+<Warriors>
+	<Warrior ID="1" FirstName="NAME_SHADOW" Voice="Male" Money="90122" Bonus="99" Strength="3" Stamina="3" Level="13" Experience="1906" Power="4" PowerSyncTime="1400600862" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_CHAIN" Helm="HELM_VIKING" Weapon="WEAPON_STEEL_NUNCHAKU" Ranged="RANGED_KUNAI" Magic="NoMagic" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_3" ServerUserID="6670574" AskedForDumps="1" IndexSlider="0" PaidBonus="0" PaidMoney="0" LotteryLevel="0" LotteryExperience="0" LastDailyTimeOffset="0" LastEnergyTimeOffset="0" LastDumpTime="1043275810" LotteryPlayedToday="0" FightID="0" Language="eng" TrySocialLogin="1" DailyProgress="0" DailyPlayTime="0" PeriodicPlayTime="1400595574" GPlusAutoLogin="1" GPlusFiledLogins="0" FacebookLiked="0" FightIDS="ZONE_3|Survival|1">
+		<Items>
+			<Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="Fists" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="NoRanged" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="NoMagic" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="WEAPON_KNIVES" Equipped="0" Count="1" UpgradeLevel="100" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="ARMOR_ROBE" Equipped="0" Count="1" UpgradeLevel="200" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="HELM_LIGHT" Equipped="0" Count="1" UpgradeLevel="200" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="Energy_Refill" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_SAI" Equipped="0" Count="1" UpgradeLevel="330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_OLD_LEATHER" Equipped="0" Count="1" UpgradeLevel="330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_KENDO_MASK" Equipped="0" Count="1" UpgradeLevel="330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_NUNCHAKU" Equipped="0" Count="1" UpgradeLevel="430" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_KENDO" Equipped="0" Count="1" UpgradeLevel="430" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_GABLED" Equipped="0" Count="1" UpgradeLevel="500" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="WEAPON_NINJA_SWORD" Equipped="0" Count="1" UpgradeLevel="540" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_CLOSED" Equipped="0" Count="1" UpgradeLevel="630" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_LEATHER" Equipped="0" Count="1" UpgradeLevel="620" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="drop_name_blueseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="WEAPON_CRESCENT_KNIVES" Equipped="0" Count="1" UpgradeLevel="730" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_BARBARIAN" Equipped="0" Count="1" UpgradeLevel="710" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_LOBSTER" Equipped="0" Count="1" UpgradeLevel="730" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_CHAIN_ROBE" Equipped="0" Count="1" UpgradeLevel="830" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_BLOOD" Equipped="0" Count="1" UpgradeLevel="830" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_STAFF" Equipped="0" Count="1" UpgradeLevel="930" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_NAGINATA" Equipped="0" Count="1" UpgradeLevel="910" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="HELM_SMART_GABLED" Equipped="0" Count="1" UpgradeLevel="920" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_RONIN" Equipped="0" Count="1" UpgradeLevel="900" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="RANGED_SHURIKENS" Equipped="0" Count="1" UpgradeLevel="1020" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_KABUTO" Equipped="0" Count="1" UpgradeLevel="1030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_SENSEI_KENDO" Equipped="0" Count="1" UpgradeLevel="1030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_KERIS" Equipped="0" Count="1" UpgradeLevel="1020" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_SWORDS" Equipped="0" Count="1" UpgradeLevel="1130" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_HARDENED" Equipped="0" Count="1" UpgradeLevel="1120" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_GUARD" Equipped="0" Count="1" UpgradeLevel="1110" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_VIKING" Equipped="1" Count="1" UpgradeLevel="1230" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="RANGED_KUNAI" Equipped="1" Count="1" UpgradeLevel="1220" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_STEEL_NUNCHAKU" Equipped="1" Count="1" UpgradeLevel="1230" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_CHAIN" Equipped="1" Count="1" UpgradeLevel="1200" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="drop_name_greenseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+		</Items>
+		<Battles>
+			<Battle Name="ZONE_1|BOSS_LYNX|" Locked="0" />
+			<Battle Name="ZONE_4|BOSS_WASP_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_5|BOSS_HUNTRESS_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_6|BOSS_SAMURAI_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_1|Tournament|" Locked="0" />
+			<Battle Name="ZONE_1|Survival|" Locked="0" />
+			<Battle Name="ZONE_1|Duel|" Locked="0" />
+			<Battle Name="ZONE_2|BOSS_HERMIT|" Locked="0" />
+			<Battle Name="ZONE_2|Tournament|" Locked="0" />
+			<Battle Name="ZONE_2|Duel|" Locked="0" />
+			<Battle Name="ZONE_2|Survival|" Locked="0" />
+			<Battle Name="ZONE_2|Challenge|" Locked="0" />
+			<Battle Name="ZONE_3|BOSS_BUTCHER|" Locked="0" />
+			<Battle Name="ZONE_3|Tournament|" Locked="0" />
+			<Battle Name="ZONE_3|Duel|" Locked="1" />
+			<Battle Name="ZONE_3|Survival|" Locked="0" />
+			<Battle Name="ZONE_3|Challenge|" Locked="1" />
+		</Battles>
+		<Sounds>
+			<Sound Value="1.0" Mute="0" />
+			<Music Value="1.0" Mute="0" />
+		</Sounds>
+		<SessionSettings>
+			<VideoAdCounterCurrent Value="1" />
+			<VideoAdTimer Value="1400549131" />
+			<VideoAdCounter Value="10" />
+			<AdvertRate Value="0" />
+		</SessionSettings>
+		<Fights>
+			<Fight ID="-1" IDS="ZONE_1|Duel|1" CompletedCount="0" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400595574" RandomizeTimeLeft="1400595576" RandomGroupSeed="1124391296" RandomRuleSeed="28551548" />
+			<Fight ID="-1" IDS="ZONE_2|Duel|1" CompletedCount="0" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400595574" RandomizeTimeLeft="1400595574" RandomGroupSeed="1367760256" RandomRuleSeed="1626708096" />
+			<Fight ID="-1" IDS="ZONE_3|Duel|1" CompletedCount="0" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400595574" RandomizeTimeLeft="1400595576" RandomGroupSeed="1013687744" RandomRuleSeed="828961728" />
+			<Fight ID="-1" IDS="ZONE_4|Duel|1" CompletedCount="0" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400595574" RandomizeTimeLeft="1400595576" RandomGroupSeed="1013687744" RandomRuleSeed="828961728" />
+			<Fight ID="-1" IDS="ZONE_5|Duel|1" CompletedCount="0" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400595574" RandomizeTimeLeft="1400595576" RandomGroupSeed="1013687744" RandomRuleSeed="828961728" />
+			<Fight ID="-1" IDS="Punchbag|Training|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400600246" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="Punchbag|Bosses|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400098574" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400098678" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400098845" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400099005" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|3" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400099391" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|4" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400099714" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|2" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400109706" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|5" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400109516" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Survival|1" CompletedCount="1" LossCount="22" StoryCount="0" CompletedTime="0" TimeLeft="1400292828" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400109839" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|3" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400113099" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400110219" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400110287" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|9" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400112672" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400113214" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Stranger|lvl4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400112856" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400113322" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400113430" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|13" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400118202" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|14" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400120184" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|4" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400122036" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400120419" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400122225" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400300323" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|17" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400122646" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400296038" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|19" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400296349" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400296470" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400300255" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|22" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400820320" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|6" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400165129" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400820570" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|24" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400164955" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Survival|1" CompletedCount="3" LossCount="37" StoryCount="0" CompletedTime="0" TimeLeft="1400537545" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435344" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|1" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400256160" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|2" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400342952" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435017" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435146" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435463" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400522094" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400253698" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400783825" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400784104" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|2" CompletedCount="1" LossCount="5" StoryCount="0" CompletedTime="0" TimeLeft="1400356268" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400356745" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Stranger|lvl9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400356651" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400356877" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|11" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400450559" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|12" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400618506" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400253797" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400262010" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400268091" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400268425" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400268661" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400268770" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|8" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400618748" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400293298" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|13" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400288871" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400289162" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400293495" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|11" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400293810" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400293986" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|12" CompletedCount="1" LossCount="16" StoryCount="0" CompletedTime="0" TimeLeft="1400343326" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400328582" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|13" CompletedCount="1" LossCount="5" StoryCount="0" CompletedTime="0" TimeLeft="1400355523" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400347403" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|4" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400350790" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400350394" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400355687" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400355879" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400355994" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400358039" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|17" CompletedCount="1" LossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1400415093" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|19" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400374879" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400423004" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|18" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400417173" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400417371" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|19" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400423307" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|21" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400422927" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|6" CompletedCount="1" LossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1400560209" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|20" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400466795" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400467242" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|22" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400642155" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400470354" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400525115" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|23" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400525303" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|24" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400547967" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|24" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400595588" RandomizeTimeLeft="0" />
+			<Fight ID="-1" IDS="ZONE_3|Survival|1" CompletedCount="0" LossCount="28" StoryCount="0" CompletedTime="0" TimeLeft="1400692084" RandomizeTimeLeft="0" />
+		</Fights>
+		<Quests>
+			<Quests>
+				<Quest Name="AttachScripts_Zone1" FileName="assets/quests.xml" />
+				<Quest Name="UpgradesCleanup" FileName="assets/quests.xml" />
+				<Quest Name="SetTime0" FileName="assets/quests.xml" />
+				<Quest Name="lang_SessionStartCheck" FileName="assets/quests.xml" />
+				<Quest Name="UpdateStart" FileName="assets/quests.xml" />
+				<Quest Name="FirstGuardBeaten" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'2'1Final" FileName="assets/quests.xml" />
+				<Quest Name="SetShareFlag" FileName="assets/quests.xml" />
+				<Quest Name="LevelUp" FileName="assets/quests.xml" />
+				<Quest Name="FirstTournamentWon" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="DiscountRollFailure" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RatingOffer" FileName="assets/quests.xml" />
+				<Quest Name="ArmorAdvice" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="ArmorRegister" FileName="assets/quests.xml" />
+				<Quest Name="HelmAdvice" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="HelmRegister" FileName="assets/quests.xml" />
+				<Quest Name="EnergyTutor" FileName="assets/quests.xml" />
+				<Quest Name="TournamentAdvice" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="SurvivalUnlock" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="ShowNews" FileName="assets/quests.xml" />
+				<Quest Name="ShowUpgrades" FileName="assets/quests.xml" />
+				<Quest Name="ShowUpgradesSai" FileName="assets/quests.xml" />
+				<Quest Name="DuelUnlock" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="FBFirstTimeOffer" FileName="assets/quests.xml" />
+				<Quest Name="DifficultyAlert" FileName="assets/quests.xml" />
+				<Quest Name="LaunchDuel" FileName="assets/quests.xml" />
+				<Quest Name="DuelEnterNoDescription" FileName="assets/quests.xml" />
+				<Quest Name="DuelRun" FileName="assets/quests.xml" />
+				<Quest Name="Zone1Stranger1Greetings" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Zone1Stranger1Challenge" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Zone1Stranger1Fight" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="SendStrangerInfoAndFight" FileName="assets/quests.xml" />
+				<Quest Name="Zone1Stranger1Drop" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="DiscountRollSuccessLvl5" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="DiscountTick" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="DiscountReact" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="UpgradeDiscountRun" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount1" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount28" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="SimpleDiscountWrapper" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1Offer" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1OnGameEnter" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1Confirm" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1OnPurchase" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="SendDiscountInfo" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Delivery" FileName="assets/quests.xml" />
+				<Quest Name="NotificationGeneral" FileName="assets/quests.xml" />
+				<Quest Name="Last_Lynx_guard_beaten" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Lynx_won" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Lynx_beaten" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="PackDownloadShop" FileName="assets/quests.xml" />
+				<Quest Name="PackDownloadWrapper" FileName="assets/quests.xml" />
+				<Quest Name="zone2_PackDownload" FileName="assets/quests.xml" />
+				<Quest Name="currency_alert" FileName="assets/quests.xml" />
+				<Quest Name="RollMoPubAd" FileName="assets/quests.xml" />
+				<Quest Name="AttachScripts_Zone2" FileName="assets/quests.xml" />
+				<Quest Name="ResetDownloadFlag" FileName="assets/quests.xml" />
+				<Quest Name="DiscountRollSuccess" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RangedAvailable" FileName="assets/quests.xml" />
+				<Quest Name="Zone2Guard1Greetings" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Guard1Defeated" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="HardDiscount14" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount29" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount41" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Zone2ChallangeUnlock" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="FindTopItems" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeEnter" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeRun" FileName="assets/quests.xml" />
+				<Quest Name="SecondDuelUnlock" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Greetings" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Challenge" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Fight" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Drop" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="UpgradeDiscountWrapper" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="DuelEnter" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeDenied1" FileName="assets/quests.xml" />
+				<Quest Name="HardDiscount4" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount42" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="ChallengeDenied2" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeDenied3" FileName="assets/quests.xml" />
+				<Quest Name="Zone2Guard5Greetings" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="HardDiscount30" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Zone2Guard5Defeated" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="HermitWon" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Hermit_beaten" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="zone3_PackDownload" FileName="assets/quests.xml" />
+				<Quest Name="AttachScripts_Zone3" FileName="assets/quests.xml" />
+			</Quests>
+			<Variables>
+				<Variable Name="TimeSet" Value="1" />
+				<Variable Name="LastRatingOfferTime" Value="0" />
+				<Variable Name="UpdateTo1'5'2'1Mark" Value="1" />
+				<Variable Name="langPrevious" Value="eng" />
+				<Variable Name="langCurrent" Value="eng" />
+				<Variable Name="ChallengeUnlockCount" Value="0" />
+				<Variable Name="DuelUnlockCount" Value="0" />
+				<Variable Name="StrangerTriggerLevel" Value="16" />
+				<Variable Name="ShareFlag" Value="0" />
+				<Variable Name="rnd100" Value="10" />
+				<Variable Name="ActiveDiscount" Value="0" />
+				<Variable Name="RatingTurnedOff" Value="1" />
+				<Variable Name="ArmorAdvice" Value="1" />
+				<Variable Name="ArmorRegister" Value="1" />
+				<Variable Name="HelmAdvice" Value="1" />
+				<Variable Name="HelmRegister" Value="1" />
+				<Variable Name="TournamentAdvice" Value="1" />
+				<Variable Name="EnergyTutor" Value="1" />
+				<Variable Name="SurvivalUnlock" Value="1" />
+				<Variable Name="ShowUpgrades" Value="1" />
+				<Variable Name="FacebookOffered" Value="1" />
+				<Variable Name="DifficultyAlert" Value="1" />
+				<Variable Name="CurrentDuel" Value="ZONE_2|Duel|1" />
+				<Variable Name="DuelRunning" Value="0" />
+				<Variable Name="StrangerStore" Value="0" />
+				<Variable Name="StrangerDifficulty" Value="1.26895" />
+				<Variable Name="Zone1Stranger1Greetings" Value="1" />
+				<Variable Name="Zone1Stranger1OnShopLeave" Value="0" />
+				<Variable Name="Zone1Stranger1Challenge" Value="0" />
+				<Variable Name="Zone1Stranger1OnHold" Value="0" />
+				<Variable Name="StrangerResult" Value="1" />
+				<Variable Name="FightsRemained" Value="0" />
+				<Variable Name="BackupFight" Value="ZONE_2|Challenge|19" />
+				<Variable Name="DiscountItem" Value="HELM_VIKING" />
+				<Variable Name="DiscountValue" Value="45" />
+				<Variable Name="DiscountItemType" Value="Helm" />
+				<Variable Name="DiscountType" Value="Regular" />
+				<Variable Name="DiscountItemFinal" Value="HELM_VIKING" />
+				<Variable Name="RandomDiscount1Offer" Value="2" />
+				<Variable Name="DiscountMoney" Value="7699" />
+				<Variable Name="DiscountBonus" Value="106" />
+				<Variable Name="DiscountResult" Value="1" />
+				<Variable Name="DiscountStore" Value="1" />
+				<Variable Name="Lynx_won" Value="1" />
+				<Variable Name="ShopDownloadOffer" Value="0" />
+				<Variable Name="globZoneToCheck" Value="ZONE_3" />
+				<Variable Name="Zone2CurrencyAlert" Value="1" />
+				<Variable Name="RangedAvailableTag" Value="1" />
+				<Variable Name="Zone2Guard1Greetings" Value="1" />
+				<Variable Name="CurrentChallenge" Value="ZONE_2|Challenge|24" />
+				<Variable Name="ChallengeRunning" Value="0" />
+				<Variable Name="Zone2Stranger1Greetings" Value="1" />
+				<Variable Name="Zone2Stranger1OnShopLeave" Value="0" />
+				<Variable Name="Zone2Stranger1Challenge" Value="0" />
+				<Variable Name="Zone2Stranger1OnHold" Value="0" />
+				<Variable Name="DiscountableQuantity" Value="4" />
+				<Variable Name="DiscountItemNumber" Value="0" />
+				<Variable Name="Zone2Guard5Greetings" Value="1" />
+				<Variable Name="HermitWon" Value="1" />
+				<Variable Name="Zone3CurrencyAlert" Value="1" />
+			</Variables>
+		</Quests>
+		<Counters>
+			<Counter Name="FirstHits" CurrentValue="660" />
+			<Counter Name="HeadHitRound" CurrentValue="227" />
+			<Counter Name="PerfectRound" CurrentValue="13" />
+			<Counter Name="Unarmed" CurrentValue="6" />
+			<Counter Name="BodyguardsWin" CurrentValue="10" />
+			<Counter Name="HeadKick" CurrentValue="712" />
+			<Counter Name="Losses" CurrentValue="176" />
+			<Counter Name="StyleAggressive" CurrentValue="19" />
+			<Counter Name="BarelyAliveRounds" CurrentValue="45" />
+			<Counter Name="Combo3" CurrentValue="136" />
+			<Counter Name="Disarm" CurrentValue="22" />
+			<Counter Name="FastRounds" CurrentValue="10" />
+			<Counter Name="Survived3" CurrentValue="29" />
+			<Counter Name="Survived5" CurrentValue="19" />
+			<Counter Name="BlockedRound" CurrentValue="5" />
+			<Counter Name="TournamentsBeaten" CurrentValue="2" />
+			<Counter Name="BossWin" CurrentValue="2" />
+			<Counter Name="LongRounds" CurrentValue="2" />
+			<Counter Name="KickFights" CurrentValue="11" />
+			<Counter Name="Survival1" CurrentValue="1" />
+			<Counter Name="Survived15" CurrentValue="4" />
+			<Counter Name="Combo6" CurrentValue="12" />
+			<Counter Name="Survival2" CurrentValue="3" />
+			<Counter Name="ChallangesBeaten" CurrentValue="1" />
+		</Counters>
+		<Achievements>
+			<Achievement Name="achievement_name_perfect_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_losses_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_aggresive_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_firsthits_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_barelyalive_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_headhitrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_maxcombo_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_barelyalive_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_disarm_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_firsthits_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_perfect_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_fastrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bodyguards_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_headhitrounds_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_tournaments_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bosses_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_losses_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_longrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_kickfights_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_unarmed_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_kickfights_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_survivalmax_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_maxcombo_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bodyguards_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_firsthits_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_survivalmax_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_blockedrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_tournaments_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bosses_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_challenges_1" ObtainedReward="false" />
+		</Achievements>
+		<Shop>
+			<Lock Name="ZONE_2" />
+			<Lock Name="ZONE_3" />
+			<Lock Name="ZONE_3_DONATE" />
+		</Shop>
+		<Perks>
+			<Perk Level="2" Name="PERK_DOUBLE_SWEEP" />
+			<Perk Level="3" Name="PERK_TOUGH_BODY" />
+			<Perk Level="4" Name="PERK_HELM_BREAKER" />
+			<Perk Level="5" Name="PERK_DOUBLE_JUMP_KICK" />
+			<Perk Level="6" Name="PERK_DESPERATE" />
+			<Perk Level="7" Name="PERK_MASTER_OF_STYLE" />
+			<Perk Level="8" Name="PERK_ELBOW_STRIKE" />
+			<Perk Level="9" Name="PERK_MIRROR" />
+			<Perk Level="10" Name="PERK_GRAPPLER" />
+			<Perk Level="11" Name="PERK_TWO_FOOT_JUMP_KICK" />
+			<Perk Level="12" Name="PERK_IRON_HIDE" />
+			<Perk Level="13" Name="PERK_FURIOUS" />
+		</Perks>
+		<RepostAchievements />
+	</Warrior>
+</Warriors>
+<Versions>
+	<Version Value="1.5.2" />
+	<DataVersion Value="1.5.2.1" />
+</Versions>
