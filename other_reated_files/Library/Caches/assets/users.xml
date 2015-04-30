@@ -1,0 +1,1080 @@
+<?xml version="1.0"?>
+<CurrentUser ID="1" Token="1" Token="1" />
+<Warriors>
+	<Warrior ID="1" FirstName="NAME_SHADOW" Voice="Male" Money="437913" Bonus="109" Strength="3" Stamina="3" Level="32" Experience="1610077" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_SHADOW_MASTER" Helm="HELM_KNIGHTLY" Weapon="WEAPON_SILVER_SPEAR" Ranged="RANGED_KUNAI_OF_WIND" Magic="MAGIC_WATER_BALL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_6" ServerUserID="17056846" AskedForDumps="1" IndexSlider="0" PaidBonus="0" PaidMoney="0" LotteryLevel="0" LotteryExperience="0" LastDailyTimeOffset="0" LastEnergyTimeOffset="0" LastDumpTime="105314644" LotteryPlayedToday="0" FightID="0" Language="eng" TrySocialLogin="1" DailyProgress="0" DailyPlayTime="0" PeriodicPlayTime="1419541795" GPlusAutoLogin="1" GPlusFiledLogins="0" FacebookLiked="0" FightIDS="ZONE_6|Tournament|7" InstallID="1771994112" CoinIcon="gold.png" DenominationDigits="0" ShowForge="1" StarterPackTimerEndTime="0" LastShopItem="RANGED_KUNAI_OF_WIND" MapMaskColor="0xffffff00" ForgeTutorialMaterialsGiven="1" EclipseMode="Off">
+		<Items>
+			<Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="Fists" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="NoRanged" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="NoMagic" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="WEAPON_KNIVES" Equipped="0" Count="1" UpgradeLevel="100" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="ARMOR_ROBE" Equipped="0" Count="1" UpgradeLevel="200" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="HELM_LIGHT" Equipped="0" Count="1" UpgradeLevel="200" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="Energy_Refill" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_SAI" Equipped="0" Count="1" UpgradeLevel="330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_OLD_LEATHER" Equipped="0" Count="1" UpgradeLevel="330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_KENDO_MASK" Equipped="0" Count="1" UpgradeLevel="330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_NUNCHAKU" Equipped="0" Count="1" UpgradeLevel="430" DeliveryTime="-1" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_OVERHEAT">
+						<Set Aspect="150" Animation="Weapon" ChanceFactor="3.5" MultiplierRating="1.3" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="ARMOR_KENDO" Equipped="0" Count="1" UpgradeLevel="430" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_GABLED" Equipped="0" Count="1" UpgradeLevel="500" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="WEAPON_NINJA_SWORD" Equipped="0" Count="1" UpgradeLevel="600" DeliveryTime="-1" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_PRECISION">
+						<Set Aspect="115" Animation="Weapon" DamageRating="Weapon" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="HELM_CLOSED" Equipped="0" Count="1" UpgradeLevel="630" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_LEATHER" Equipped="0" Count="1" UpgradeLevel="620" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="drop_name_blueseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="WEAPON_CRESCENT_KNIVES" Equipped="0" Count="1" UpgradeLevel="730" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_BARBARIAN" Equipped="0" Count="1" UpgradeLevel="710" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_LOBSTER" Equipped="0" Count="1" UpgradeLevel="730" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_CHAIN_ROBE" Equipped="0" Count="1" UpgradeLevel="830" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_BLOOD" Equipped="0" Count="1" UpgradeLevel="830" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_STAFF" Equipped="0" Count="1" UpgradeLevel="930" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_NAGINATA" Equipped="0" Count="1" UpgradeLevel="910" DeliveryTime="0" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE">
+						<Set Aspect="366" Animation="Weapon" DamageRating="Weapon" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="HELM_SMART_GABLED" Equipped="0" Count="1" UpgradeLevel="920" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_RONIN" Equipped="0" Count="1" UpgradeLevel="900" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="RANGED_SHURIKENS" Equipped="0" Count="1" UpgradeLevel="1020" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_KABUTO" Equipped="0" Count="1" UpgradeLevel="1030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_SENSEI_KENDO" Equipped="0" Count="1" UpgradeLevel="1030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_KERIS" Equipped="0" Count="1" UpgradeLevel="1020" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_SWORDS" Equipped="0" Count="1" UpgradeLevel="1130" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_HARDENED" Equipped="0" Count="1" UpgradeLevel="1120" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_GUARD" Equipped="0" Count="1" UpgradeLevel="1110" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_VIKING" Equipped="0" Count="1" UpgradeLevel="1230" DeliveryTime="-1" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_DEFENSE">
+						<Set Aspect="226" Defense="HeadDefense" ChanceFactor="3" MultiplierRating="1.19" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="RANGED_KUNAI" Equipped="0" Count="1" UpgradeLevel="1220" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_STEEL_NUNCHAKU" Equipped="0" Count="1" UpgradeLevel="1230" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_CHAIN" Equipped="0" Count="1" UpgradeLevel="1200" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="drop_name_greenseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="ARMOR_CENTURION" Equipped="0" Count="1" UpgradeLevel="1330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_STILETTOS" Equipped="0" Count="1" UpgradeLevel="1330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_STEEL" Equipped="0" Count="1" UpgradeLevel="1330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="MAGIC_FIRE_BALL" Equipped="0" Count="1" UpgradeLevel="1500" DeliveryTime="-1" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_WEAKNESS">
+						<Set Aspect="477" Animation="MagicMissile" Chance="1" FramesBetweenHits="1600" ItemAmplification="0.847" MultiplierRating="1.18" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="RANGED_HUNTERS_KNIVES" Equipped="0" Count="1" UpgradeLevel="1430" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_MANTIS" Equipped="0" Count="1" UpgradeLevel="1430" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_HEAVY_STAFF" Equipped="0" Count="1" UpgradeLevel="1410" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_AXES" Equipped="0" Count="1" UpgradeLevel="1520" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_MANTIS" Equipped="0" Count="1" UpgradeLevel="1500" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="HELM_GENERAL" Equipped="0" Count="1" UpgradeLevel="1510" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_GRAND_CHAIN" Equipped="0" Count="1" UpgradeLevel="1630" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_KATANA" Equipped="0" Count="1" UpgradeLevel="1700" DeliveryTime="-1" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_OVERHEAT">
+						<Set Aspect="582" Animation="Weapon" ChanceFactor="3.5" MultiplierRating="1.3" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="RANGED_SILVER_SHURIKENS" Equipped="0" Count="1" UpgradeLevel="1610" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="MAGIC_ENERGY_BALL" Equipped="0" Count="1" UpgradeLevel="1630" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_MOON" Equipped="0" Count="1" UpgradeLevel="1730" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_CHINESE_SABERS" Equipped="0" Count="1" UpgradeLevel="1700" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="ARMOR_GILDED_CENTURION" Equipped="0" Count="1" UpgradeLevel="1730" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_YARI" Equipped="0" Count="1" UpgradeLevel="1830" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_LEGIONER" Equipped="0" Count="1" UpgradeLevel="1800" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="HELM_LEGIONER" Equipped="0" Count="1" UpgradeLevel="1800" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="drop_name_redseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="MAGIC_BOMB" Equipped="0" Count="1" UpgradeLevel="2310" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_RAVEN" Equipped="0" Count="1" UpgradeLevel="1900" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="HELM_IRON" Equipped="0" Count="1" UpgradeLevel="1900" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="WEAPON_BUTTERFLY_SWORDS" Equipped="0" Count="1" UpgradeLevel="1930" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="RANGED_HEAVY_SHURIKENS" Equipped="0" Count="1" UpgradeLevel="2030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_DAWN" Equipped="0" Count="1" UpgradeLevel="2000" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="WEAPON_LABRYS_AXES" Equipped="0" Count="1" UpgradeLevel="2010" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_EMERALD_BREASTPLATE" Equipped="0" Count="1" UpgradeLevel="2000" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="WEAPON_GOLDEN_KATANA" Equipped="0" Count="1" UpgradeLevel="2130" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_RED_STEEL" Equipped="0" Count="1" UpgradeLevel="2100" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="HELM_EMERALD" Equipped="0" Count="1" UpgradeLevel="2100" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="RANGED_THROWING_SPIKES" Equipped="0" Count="1" UpgradeLevel="2220" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_CRIMSON" Equipped="0" Count="1" UpgradeLevel="2220" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_MOON" Equipped="0" Count="1" UpgradeLevel="2230" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_GLAIVE" Equipped="0" Count="1" UpgradeLevel="2330" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_SILVER" Equipped="0" Count="1" UpgradeLevel="2320" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_SHADOW" Equipped="0" Count="1" UpgradeLevel="2300" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="WEAPON_KUSARIGAMA" Equipped="0" Count="1" UpgradeLevel="2430" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="RANGED_NEEDLE" Equipped="0" Count="1" UpgradeLevel="2430" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_MANTLE_OF_NIGHT" Equipped="0" Count="1" UpgradeLevel="2400" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="drop_name_purpleseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" />
+			<Item Name="HELM_SNOW" Equipped="0" Count="1" UpgradeLevel="2530" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="MAGIC_LIGHTNING_ARROW" Equipped="0" Count="1" UpgradeLevel="3030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_HAWK" Equipped="0" Count="1" UpgradeLevel="2500" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="WEAPON_SICKLES" Equipped="0" Count="1" UpgradeLevel="2500" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="WEAPON_MOON_SABERS" Equipped="0" Count="1" UpgradeLevel="2630" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_DARK_LEGIONER" Equipped="0" Count="1" UpgradeLevel="2600" DeliveryTime="-1" AcquireType="Item" />
+			<Item Name="RANGED_GHOST_KUNAI" Equipped="0" Count="1" UpgradeLevel="2630" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_GILDED" Equipped="0" Count="1" UpgradeLevel="2700" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="HELM_SAMURAIS" Equipped="0" Count="1" UpgradeLevel="2710" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_HEAVY_KUSARIGAMA" Equipped="0" Count="1" UpgradeLevel="2800" DeliveryTime="-1" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_PRECISION">
+						<Set Aspect="1014" Animation="Weapon" DamageRating="Weapon" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="RANGED_ASSASSINS_DAGGER" Equipped="0" Count="1" UpgradeLevel="2830" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_RED_LOTUS" Equipped="0" Count="1" UpgradeLevel="2830" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_DADAO" Equipped="0" Count="1" UpgradeLevel="2930" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="HELM_TRITON" Equipped="0" Count="1" UpgradeLevel="2920" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="ARMOR_DRAGONS_BLOOD" Equipped="0" Count="1" UpgradeLevel="3030" DeliveryTime="-1" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_MAGIC_PAIN_RECHARGE">
+						<Set Aspect="1075" Defense="BodyDefense" Chance="0.5" MultiplierRating="1.83" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="WEAPON_BATTLE_HAMMERS" Equipped="0" Count="1" UpgradeLevel="3030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="drop_name_orangeseal" Equipped="0" Count="2" UpgradeLevel="0" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="HELM_DARKNESS" Equipped="0" Count="1" UpgradeLevel="3030" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="RANGED_ANCIENT_CHAKRAM" Equipped="0" Count="1" UpgradeLevel="3040" DeliveryTime="-1" AcquireType="Upgrade" />
+			<Item Name="WEAPON_NORTHERN_HAMMER" Equipped="0" Count="1" UpgradeLevel="3130" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="HELM_GOLDEN" Equipped="0" Count="1" UpgradeLevel="3130" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="ARMOR_SHADOW_MASTER" Equipped="1" Count="1" UpgradeLevel="3120" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="MAGIC_WATER_BALL" Equipped="1" Count="1" UpgradeLevel="3110" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="WEAPON_SILVER_SPEAR" Equipped="1" Count="1" UpgradeLevel="3220" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="RANGED_KUNAI_OF_WIND" Equipped="1" Count="1" UpgradeLevel="3210" DeliveryTime="0" AcquireType="Upgrade" />
+			<Item Name="HELM_KNIGHTLY" Equipped="1" Count="1" UpgradeLevel="3210" DeliveryTime="0" AcquireType="Upgrade" />
+		</Items>
+		<Battles>
+			<Battle Name="ZONE_1|BOSS_LYNX|" Locked="0" />
+			<Battle Name="ZONE_1|Tournament|" Locked="0" />
+			<Battle Name="ZONE_1|Survival|" Locked="0" />
+			<Battle Name="ZONE_1|Duel|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_2|BOSS_HERMIT|" Locked="0" />
+			<Battle Name="ZONE_2|Tournament|" Locked="0" />
+			<Battle Name="ZONE_2|Duel|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_2|Survival|" Locked="0" />
+			<Battle Name="ZONE_2|Challenge|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_3|BOSS_BUTCHER|" Locked="0" />
+			<Battle Name="ZONE_3|Tournament|" Locked="0" />
+			<Battle Name="ZONE_3|Duel|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_3|Survival|" Locked="0" />
+			<Battle Name="ZONE_3|Challenge|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_4|BOSS_WASP|" Locked="0" />
+			<Battle Name="ZONE_4|Tournament|" Locked="0" />
+			<Battle Name="ZONE_4|Duel|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_4|Survival|" Locked="0" />
+			<Battle Name="ZONE_4|Challenge|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_5|BOSS_HUNTRESS|" Locked="0" />
+			<Battle Name="ZONE_5|Tournament|" Locked="0" />
+			<Battle Name="ZONE_5|Duel|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_5|Survival|" Locked="0" />
+			<Battle Name="ZONE_5|Challenge|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_6|BOSS_SAMURAI|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_6|Tournament|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_6|Duel|" Locked="1" Hidden="0" />
+			<Battle Name="ZONE_6|Survival|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_6|Challenge|" Locked="0" Hidden="0" />
+			<Battle Name="ZONE_5|BOSS_HUNTRESS_ECLIPSEMODE|" Locked="0" Hidden="1" />
+			<Battle Name="ZONE_2|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" />
+			<Battle Name="ZONE_3|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" />
+			<Battle Name="ZONE_4|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" />
+			<Battle Name="ZONE_5|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" />
+			<Battle Name="ZONE_1|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" />
+		</Battles>
+		<Sounds>
+			<Sound Value="1" Mute="0" />
+			<Music Value="1" Mute="0" />
+		</Sounds>
+		<SessionSettings>
+			<VideoAdCounterCurrent Value="3" />
+			<VideoAdTimer Value="1400549131" />
+			<VideoAdCounter Value="10" />
+			<AdvertRate Value="20" />
+			<LocationResolution Value="HIGH" />
+			<ShowDojoDisciple Value="0" />
+			<QualityCondition Value="HIGH" />
+		</SessionSettings>
+		<Fights>
+			<Fight ID="-1" IDS="ZONE_1|Duel|1" CompletedCount="0" LossCount="4" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" RandomGroupSeed="788790784" RandomRuleSeed="708211008" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Duel|1" CompletedCount="0" LossCount="4" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" RandomGroupSeed="1934243328" RandomRuleSeed="1374365696" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Duel|1" CompletedCount="0" LossCount="4" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" RandomGroupSeed="890274944" RandomRuleSeed="1382606080" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Duel|1" CompletedCount="0" LossCount="4" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" RandomGroupSeed="890274944" RandomRuleSeed="1382606080" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Duel|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" RandomGroupSeed="1993790208" RandomRuleSeed="1390846336" EclipseCompletedCount="1" EclipseLossCount="0" Level="32" />
+			<Fight ID="-1" IDS="Punchbag|Training|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419691317" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="Punchbag|Bosses|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400098574" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400098678" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400098845" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400099005" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|3" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400099391" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|4" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400099714" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|2" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400109706" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|5" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400109516" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Survival|1" CompletedCount="1" LossCount="22" StoryCount="0" CompletedTime="0" TimeLeft="1400292828" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400109839" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|3" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400113099" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400110219" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400110287" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|9" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400112672" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400113214" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Stranger|lvl4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400112856" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400113322" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400113430" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|13" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400118202" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|14" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400120184" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|4" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400122036" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400120419" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400122225" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400300323" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|17" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400122646" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400296038" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|19" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400296349" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400296470" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400300255" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|22" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400820320" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|6" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400165129" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400820570" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Tournament|24" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400164955" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Survival|1" CompletedCount="4" LossCount="37" StoryCount="0" CompletedTime="0" TimeLeft="1400922081" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435344" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|1" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400256160" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|2" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400342952" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435017" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435146" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400435463" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400522094" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400253698" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400783825" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400784104" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|2" CompletedCount="1" LossCount="5" StoryCount="0" CompletedTime="0" TimeLeft="1400356268" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400356745" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Stranger|lvl9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400356651" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400356877" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|11" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400450559" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|12" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400618506" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400253797" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400262010" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400268091" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400268425" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400268661" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400268770" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|8" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400618748" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400293298" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|13" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400288871" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400289162" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400293495" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|11" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400293810" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400293986" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|12" CompletedCount="1" LossCount="16" StoryCount="0" CompletedTime="0" TimeLeft="1400343326" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400328582" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|13" CompletedCount="1" LossCount="5" StoryCount="0" CompletedTime="0" TimeLeft="1400355523" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400347403" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|4" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400350790" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400350394" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400355687" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400355879" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400355994" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400358039" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|17" CompletedCount="1" LossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1400415093" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|19" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400374879" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400423004" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|18" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400417173" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400417371" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|19" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400423307" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|21" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400422927" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|BOSS_HERMIT|6" CompletedCount="1" LossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1400560209" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|20" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400466795" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400467242" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|22" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400642155" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400470354" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400525115" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|23" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400525303" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Tournament|24" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400547967" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_2|Challenge|24" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400595588" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Survival|1" CompletedCount="0" LossCount="15" StoryCount="0" CompletedTime="0" TimeLeft="1400693196" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400603970" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400604076" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400604151" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400604548" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400604770" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|BOSS_BUTCHER|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400608449" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|6" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400608701" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|1" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400612764" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|7" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400612863" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|2" CompletedCount="1" LossCount="5" StoryCount="0" CompletedTime="0" TimeLeft="1400617192" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400622295" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400632643" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|9" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400618522" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|BOSS_BUTCHER|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400618337" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|4" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400623269" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|5" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400630859" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|6" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400638830" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400631039" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400634754" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400642629" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400642851" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400723438" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Stranger|lvl16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400723289" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|BOSS_BUTCHER|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400723516" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|13" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400723581" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400723663" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400641288" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400622999" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|15" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400640257" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400644027" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|BOSS_BUTCHER|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400651628" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400651472" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400641208" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400641445" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400641505" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|13" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400649018" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400742905" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|BOSS_BUTCHER|5" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400689305" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|19" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400762664" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400743018" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|16" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400762166" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400762416" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|18" CompletedCount="1" LossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1400805485" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|20" CompletedCount="1" LossCount="5" StoryCount="0" CompletedTime="0" TimeLeft="1400681687" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|19" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400689093" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400697070" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400689240" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400693102" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400697145" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400697303" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400697365" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400697433" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Tournament|24" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400701245" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|Challenge|24" CompletedCount="1" LossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1400703995" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_3|BOSS_BUTCHER|6" CompletedCount="1" LossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1400694483" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Survival|1" CompletedCount="0" LossCount="17" StoryCount="0" CompletedTime="0" TimeLeft="1400857682" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400695875" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400695963" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400696208" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400696377" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|BOSS_WASP|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400707892" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400708063" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400711890" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400711951" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|2" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400742498" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|BOSS_WASP|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400754196" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400742381" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400746353" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|3" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400754259" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Stranger|lvl21" CompletedCount="0" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400750193" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400754126" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400754316" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400754405" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400761636" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|6" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400812484" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|BOSS_WASP|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400823811" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400816173" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400827920" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400816294" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|12" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400820005" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|13" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400824006" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400726488" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400726576" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400726666" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400726743" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400726845" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400734727" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400730579" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|BOSS_WASP|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400730886" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|BOSS_WASP|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400809214" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|13" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400734912" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400734985" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400735077" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400738710" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400738894" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400738821" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400742669" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|19" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400739039" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400746475" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|20" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400750490" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|19" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400754291" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400813538" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|21" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400809406" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|BOSS_WASP|6" CompletedCount="1" LossCount="4" StoryCount="0" CompletedTime="0" TimeLeft="1401007140" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|21" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400990550" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400900254" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|23" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400998335" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|22" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400994501" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400998157" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Tournament|24" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400998538" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400867501" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Survival|1" CompletedCount="6" LossCount="18" StoryCount="0" CompletedTime="0" TimeLeft="1402421002" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_4|Challenge|24" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400865934" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400867578" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|3" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400773374" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|4" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400781253" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400781494" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400781584" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400791042" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|1" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400791453" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400791277" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400816295" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400808371" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400812050" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Stranger|lvl27" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400816085" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400816201" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400816380" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400816470" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400820169" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400820256" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|6" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400820626" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400824421" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400824507" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|12" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400832078" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|13" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400832238" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400840020" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400836048" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400843870" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400843779" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400843967" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400847751" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|15" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400814381" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400913614" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400818453" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400905675" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400901761" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400917674" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|13" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400913721" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400913755" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400913915" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|16" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400925277" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400925363" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|19" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400882406" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400886447" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|20" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400905190" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400897551" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|19" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400897610" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400897696" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400905043" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400909280" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400905263" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400905329" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400909045" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|23" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1400909517" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400913278" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Tournament|24" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1400913541" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_5|Challenge|24" CompletedCount="1" LossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1400921190" RandomizeTimeLeft="0" EclipseCompletedCount="0" EclipseLossCount="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_1|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" Level="0" RandomGroupSeed="830728128" RandomRuleSeed="1366125440" />
+			<Fight ID="-1" IDS="ZONE_2|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" Level="0" RandomGroupSeed="890274944" RandomRuleSeed="1382606080" />
+			<Fight ID="-1" IDS="ZONE_3|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" Level="0" RandomGroupSeed="890274944" RandomRuleSeed="1382606080" />
+			<Fight ID="-1" IDS="ZONE_4|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" Level="0" RandomGroupSeed="1993790208" RandomRuleSeed="1390846336" />
+			<Fight ID="-1" IDS="ZONE_5|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" Level="0" RandomGroupSeed="1993790208" RandomRuleSeed="1390846336" />
+			<Fight ID="-1" IDS="ZONE_6|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" Level="0" RandomGroupSeed="1993790208" RandomRuleSeed="1390846336" />
+			<Fight ID="-1" IDS="ZONE_6|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419541795" RandomizeTimeLeft="1419691325" Level="0" RandomGroupSeed="1993790208" RandomRuleSeed="1390846336" />
+			<Fight ID="-1" IDS="ZONE_6|Tournament|1" CompletedCount="1" LossCount="3" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419452176" RandomizeTimeLeft="0" Level="31" />
+			<Fight ID="-1" IDS="ZONE_6|Tournament|2" CompletedCount="1" LossCount="3" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419515479" RandomizeTimeLeft="0" Level="31" />
+			<Fight ID="-1" IDS="ZONE_6|Survival|1" CompletedCount="0" LossCount="11" EclipseCompletedCount="0" EclipseLossCount="5" StoryCount="0" CompletedTime="0" TimeLeft="1419549849" RandomizeTimeLeft="0" Level="32" />
+			<Fight ID="-1" IDS="ZONE_6|Tournament|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419515696" RandomizeTimeLeft="0" Level="31" />
+			<Fight ID="-1" IDS="ZONE_6|Tournament|4" CompletedCount="1" LossCount="1" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419540899" RandomizeTimeLeft="0" Level="31" />
+			<Fight ID="-1" IDS="ZONE_6|Tournament|5" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419549272" RandomizeTimeLeft="0" Level="32" />
+			<Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419549567" RandomizeTimeLeft="0" Level="32" />
+			<Fight ID="-1" IDS="ZONE_6|Tournament|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419549710" RandomizeTimeLeft="0" Level="32" />
+			<Fight ID="-1" IDS="ZONE_6|Challenge|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="0" Level="0" />
+			<Fight ID="-1" IDS="ZONE_6|Tournament|7" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1419550041" RandomizeTimeLeft="0" Level="0" />
+		</Fights>
+		<Quests>
+			<Quests>
+				<Quest Name="AttachScripts_Zone1" FileName="assets/quests.xml" />
+				<Quest Name="UpgradesCleanup" FileName="assets/quests.xml" />
+				<Quest Name="SetTime0" FileName="assets/quests.xml" />
+				<Quest Name="lang_SessionStartCheck" FileName="assets/quests.xml" />
+				<Quest Name="UpdateStart" FileName="assets/quests.xml" />
+				<Quest Name="FirstGuardBeaten" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'2'1Final" FileName="assets/quests.xml" />
+				<Quest Name="SetShareFlag" FileName="assets/quests.xml" />
+				<Quest Name="LevelUp" FileName="assets/quests.xml" />
+				<Quest Name="FirstTournamentWon" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="DiscountRollFailure" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RatingOffer" FileName="assets/quests.xml" />
+				<Quest Name="ArmorAdvice" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="ArmorRegister" FileName="assets/quests.xml" />
+				<Quest Name="HelmAdvice" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="HelmRegister" FileName="assets/quests.xml" />
+				<Quest Name="EnergyTutor" FileName="assets/quests.xml" />
+				<Quest Name="TournamentAdvice" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="SurvivalUnlock" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="ShowNews" FileName="assets/quests.xml" />
+				<Quest Name="ShowUpgrades" FileName="assets/quests.xml" />
+				<Quest Name="ShowUpgradesSai" FileName="assets/quests.xml" />
+				<Quest Name="DuelUnlock" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="FBFirstTimeOffer" FileName="assets/quests.xml" />
+				<Quest Name="DifficultyAlert" FileName="assets/quests.xml" />
+				<Quest Name="LaunchDuel" FileName="assets/quests.xml" />
+				<Quest Name="DuelEnterNoDescription" FileName="assets/quests.xml" />
+				<Quest Name="DuelRun" FileName="assets/quests.xml" />
+				<Quest Name="Zone1Stranger1Greetings" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Zone1Stranger1Challenge" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Zone1Stranger1Fight" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="SendStrangerInfoAndFight" FileName="assets/quests.xml" />
+				<Quest Name="Zone1Stranger1Drop" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="DiscountRollSuccessLvl5" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="DiscountTick" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="DiscountReact" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="UpgradeDiscountRun" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount1" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount28" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="SimpleDiscountWrapper" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1Offer" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1OnGameEnter" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1Confirm" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RandomDiscount1OnPurchase" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="SendDiscountInfo" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Delivery" FileName="assets/quests.xml" />
+				<Quest Name="NotificationGeneral" FileName="assets/quests.xml" />
+				<Quest Name="Last_Lynx_guard_beaten" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Lynx_won" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="Lynx_beaten" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="PackDownloadShop" FileName="assets/quests.xml" />
+				<Quest Name="PackDownloadWrapper" FileName="assets/quests.xml" />
+				<Quest Name="zone2_PackDownload" FileName="assets/quests.xml" />
+				<Quest Name="currency_alert" FileName="assets/quests.xml" />
+				<Quest Name="RollMoPubAd" FileName="assets/quests.xml" />
+				<Quest Name="AttachScripts_Zone2" FileName="assets/quests.xml" />
+				<Quest Name="ResetDownloadFlag" FileName="assets/quests.xml" />
+				<Quest Name="DiscountRollSuccess" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="RangedAvailable" FileName="assets/quests.xml" />
+				<Quest Name="Zone2Guard1Greetings" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Guard1Defeated" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="HardDiscount14" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount29" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount41" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Zone2ChallangeUnlock" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="FindTopItems" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeEnter" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeRun" FileName="assets/quests.xml" />
+				<Quest Name="SecondDuelUnlock" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Greetings" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Challenge" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Fight" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone2Stranger1Drop" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="UpgradeDiscountWrapper" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="DuelEnter" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeDenied1" FileName="assets/quests.xml" />
+				<Quest Name="HardDiscount4" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount42" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="ChallengeDenied2" FileName="assets/quests.xml" />
+				<Quest Name="ChallengeDenied3" FileName="assets/quests.xml" />
+				<Quest Name="Zone2Guard5Greetings" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="HardDiscount30" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Zone2Guard5Defeated" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="HermitWon" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Hermit_beaten" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="zone3_PackDownload" FileName="assets/quests.xml" />
+				<Quest Name="AttachScripts_Zone3" FileName="assets/quests.xml" />
+				<Quest Name="MagicAvailable" FileName="assets/quests.xml" />
+				<Quest Name="Zone3Guard1Greetings" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Zone3Guard1Defeated" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="CommonChallengeUnlock" FileName="assets/quests.xml" />
+				<Quest Name="CommonDuelUnlock" FileName="assets/quests.xml" />
+				<Quest Name="Zone3Stranger1Greetings" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Zone3Stranger1Challenge" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Zone3Stranger1OnShopLeave" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Zone3Stranger1Fight" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Zone3Stranger1Drop" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="HardDiscount17" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount32" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount6" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount44" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Zone3Guard5Greetings" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Zone3Guard5Defeated" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="ButcherWon" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Butcher_beaten" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="zone4_PackDownload" FileName="assets/quests.xml" />
+				<Quest Name="AttachScripts_Zone4" FileName="assets/quests.xml" />
+				<Quest Name="Zone4WaspGreetings" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Guard1Greetings" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Guard1Defeated" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Stranger1Greetings" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Stranger1Challenge" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Stranger1OnShopLeave" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Stranger1DifficultyAlert" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Stranger1OnLoss" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Stranger1ChallengeLoss" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="SendStrangerInfo" FileName="assets/quests.xml" />
+				<Quest Name="HardDiscount46" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount7" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount19" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Zone4Guard5Greetings" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="ChallengeDenied4" FileName="assets/quests.xml" />
+				<Quest Name="Zone4Guard4Defeated" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone4Guard5Defeated" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="WaspWon" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Wasp_beaten" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="zone5_PackDownload" FileName="assets/quests.xml" />
+				<Quest Name="AttachScripts_Zone5" FileName="assets/quests.xml" />
+				<Quest Name="Zone5Guard1Greetings" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Guard1Defeated" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Stranger1Greetings" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Stranger1Challenge" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Stranger1OnShopLeave" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Stranger1Fight" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Stranger1Drop" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="HardDiscount9" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount22" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount10" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount37" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Zone5Guard5Greetings" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Guard4Defeated" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone5Guard5Defeated" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="HardDiscount23" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="HardDiscount38" FileName="assets/quest_extensions/dynamic_discounts.xml" />
+				<Quest Name="Huntress_beaten" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="AttachScripts_Zone6" FileName="assets/quests.xml" />
+				<Quest Name="promo_MapButtonRemover_FirstPayment" FileName="assets/quests.xml" />
+				<Quest Name="promo_MapButtonRemover_RepeatPayment" FileName="assets/quests.xml" />
+				<Quest Name="promo_MapButtonRemover_IncreasePayment" FileName="assets/quests.xml" />
+				<Quest Name="promo_MapButtonRemover_StarterPack" FileName="assets/quests.xml" />
+				<Quest Name="ScriptsResumeOnStart" FileName="assets/quests.xml" />
+				<Quest Name="ForcedPackDownload" FileName="assets/quests.xml" />
+				<Quest Name="lang_FirstLaunch" FileName="assets/quests.xml" />
+				<Quest Name="ForcedPackDownloadWrapper" FileName="assets/quests.xml" />
+				<Quest Name="lang_PackActivation" FileName="assets/quests.xml" />
+				<Quest Name="zone2_ForcedPackDownload" FileName="assets/quests.xml" />
+				<Quest Name="zone3_ForcedPackDownload" FileName="assets/quests.xml" />
+				<Quest Name="zone4_ForcedPackDownload" FileName="assets/quests.xml" />
+				<Quest Name="zone5_ForcedPackDownload" FileName="assets/quests.xml" />
+				<Quest Name="zone6_ForcedPackDownload" FileName="assets/quests.xml" />
+				<Quest Name="ForcedPackDownload_ResumeQuests" FileName="assets/quests.xml" />
+				<Quest Name="Update1'5'2'1To1'5'3'0" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part1" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part2" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part3" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part4" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part5" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part6" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part7" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part8" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Part9" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'5'4'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'0'0Part1" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'0'0Part2" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'0'0Final" FileName="assets/quests.xml" />
+				<Quest Name="Zone6StartDialog" FileName="assets/quest_extensions/zone_6/story.xml" />
+				<Quest Name="PerksWipe" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'2Part1" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'2Part2" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'2Part3" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'2Part4" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'2Part5" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'2Part6" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'1'2Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'2'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'3'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'6'4'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'0'0Part1" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'0'0Part9" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'0'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'0'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'1'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'1'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'2'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'3'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'4'0Part3" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'4'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'5'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'6'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'7'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'7'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'7'8'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'8'0'0Part1" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'8'0'0Part3" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'8'0'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'8'1'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'8'1'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'8'1'2Final" FileName="assets/quests.xml" />
+				<Quest Name="ForgeTutorial" FileName="assets/quests.xml" />
+				<Quest Name="FreeTabFocus" FileName="assets/quests.xml" />
+				<Quest Name="EclipseModeTutorial" FileName="assets/quests.xml" />
+				<Quest Name="EclipseMode_ButtonOff" FileName="assets/quests.xml" />
+				<Quest Name="EclipseMode_ButtonOn" FileName="assets/quests.xml" />
+				<Quest Name="SurvivalCounterReset" FileName="assets/quests.xml" />
+				<Quest Name="LastBattleLost" FileName="assets/quests.xml" />
+				<Quest Name="Zone2Tournament_EclipseMode" FileName="assets/quest_extensions/zone_2/story.xml" />
+				<Quest Name="Zone3Tournament_EclipseMode" FileName="assets/quest_extensions/zone_3/story.xml" />
+				<Quest Name="Zone4Tournament_EclipseMode" FileName="assets/quest_extensions/zone_4/story.xml" />
+				<Quest Name="Zone5Tournament_EclipseMode" FileName="assets/quest_extensions/zone_5/story.xml" />
+				<Quest Name="Zone1Tournament_EclipseMode" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="NewBestWeapon" FileName="assets/quests.xml" />
+				<Quest Name="NewBestHelm" FileName="assets/quests.xml" />
+				<Quest Name="EnergyBarZeroEnergy" FileName="assets/quests.xml" />
+				<Quest Name="EnergyRefillTutorialDone" FileName="assets/quests.xml" />
+				<Quest Name="EnergyRefill" FileName="assets/quests.xml" />
+				<Quest Name="FreeReminderOnTabLeave" FileName="assets/quests.xml" />
+				<Quest Name="EclipseModeTutorialPart2" FileName="assets/quests.xml" />
+				<Quest Name="SurvivalCounter" FileName="assets/quests.xml" />
+				<Quest Name="ShowAd" FileName="assets/quests.xml" />
+				<Quest Name="NewBestArmor" FileName="assets/quests.xml" />
+				<Quest Name="NewBestMagic" FileName="assets/quests.xml" />
+				<Quest Name="SetLevelUpProfileFlag" FileName="assets/quests.xml" />
+				<Quest Name="SurvivalPayReminder" FileName="assets/quests.xml" />
+				<Quest Name="promo_FirstPayment_OnFightEnter" FileName="assets/quest_extensions/promotions.xml" />
+				<Quest Name="promo_FirstPayment_Dismiss" FileName="assets/quest_extensions/promotions.xml" />
+				<Quest Name="Zone6Guard1Greetings" FileName="assets/quest_extensions/zone_6/story.xml" />
+				<Quest Name="Zone6Guard1Defeated" FileName="assets/quest_extensions/zone_6/story.xml" />
+				<Quest Name="ShowOurAd" FileName="assets/quests.xml" />
+				<Quest Name="Zone6ChallengeUnlock" FileName="assets/quest_extensions/zone_6/story.xml" />
+				<Quest Name="NewBestRanged" FileName="assets/quests.xml" />
+				<Quest Name="PurchaseUnsuccessful_Verification" FileName="assets/quests.xml" />
+			</Quests>
+			<Variables>
+				<Variable Name="TimeSet" Value="1" />
+				<Variable Name="LastRatingOfferTime" Value="0" />
+				<Variable Name="UpdateTo1'5'2'1Mark" Value="1" />
+				<Variable Name="langPrevious" Value="eng" />
+				<Variable Name="langCurrent" Value="eng" />
+				<Variable Name="ChallengeUnlockCount" Value="3" />
+				<Variable Name="DuelUnlockCount" Value="3" />
+				<Variable Name="StrangerTriggerLevel" Value="34" />
+				<Variable Name="ShareFlag" Value="0" />
+				<Variable Name="rnd100" Value="84" />
+				<Variable Name="ActiveDiscount" Value="0" />
+				<Variable Name="RatingTurnedOff" Value="1" />
+				<Variable Name="ArmorAdvice" Value="1" />
+				<Variable Name="ArmorRegister" Value="1" />
+				<Variable Name="HelmAdvice" Value="1" />
+				<Variable Name="HelmRegister" Value="1" />
+				<Variable Name="TournamentAdvice" Value="1" />
+				<Variable Name="EnergyTutor" Value="1" />
+				<Variable Name="SurvivalUnlock" Value="1" />
+				<Variable Name="ShowUpgrades" Value="1" />
+				<Variable Name="FacebookOffered" Value="1" />
+				<Variable Name="DifficultyAlert" Value="1" />
+				<Variable Name="CurrentDuel" Value="ZONE_5|Duel|1" />
+				<Variable Name="DuelRunning" Value="0" />
+				<Variable Name="StrangerStore" Value="1" />
+				<Variable Name="StrangerDifficulty" Value="1000" />
+				<Variable Name="Zone1Stranger1Greetings" Value="1" />
+				<Variable Name="Zone1Stranger1OnShopLeave" Value="0" />
+				<Variable Name="Zone1Stranger1Challenge" Value="0" />
+				<Variable Name="Zone1Stranger1OnHold" Value="0" />
+				<Variable Name="StrangerResult" Value="1" />
+				<Variable Name="FightsRemained" Value="0" />
+				<Variable Name="BackupFight" Value="ZONE_2|Survival|1" />
+				<Variable Name="DiscountItem" Value="ARMOR_CHAIN" />
+				<Variable Name="DiscountValue" Value="35" />
+				<Variable Name="DiscountItemType" Value="Armor" />
+				<Variable Name="DiscountType" Value="Upgrade" />
+				<Variable Name="DiscountItemFinal" Value="ARMOR_CHAIN|3100" />
+				<Variable Name="RandomDiscount1Offer" Value="2" />
+				<Variable Name="DiscountMoney" Value="1.82431e+06" />
+				<Variable Name="DiscountBonus" Value="178" />
+				<Variable Name="DiscountResult" Value="0" />
+				<Variable Name="DiscountStore" Value="1" />
+				<Variable Name="Lynx_won" Value="1" />
+				<Variable Name="ShopDownloadOffer" Value="0" />
+				<Variable Name="globZoneToCheck" Value="ZONE_6" />
+				<Variable Name="Zone2CurrencyAlert" Value="1" />
+				<Variable Name="RangedAvailableTag" Value="1" />
+				<Variable Name="Zone2Guard1Greetings" Value="1" />
+				<Variable Name="CurrentChallenge" Value="ZONE_6|Challenge|1" />
+				<Variable Name="ChallengeRunning" Value="0" />
+				<Variable Name="Zone2Stranger1Greetings" Value="1" />
+				<Variable Name="Zone2Stranger1OnShopLeave" Value="0" />
+				<Variable Name="Zone2Stranger1Challenge" Value="0" />
+				<Variable Name="Zone2Stranger1OnHold" Value="0" />
+				<Variable Name="DiscountableQuantity" Value="84" />
+				<Variable Name="DiscountItemNumber" Value="0" />
+				<Variable Name="Zone2Guard5Greetings" Value="1" />
+				<Variable Name="HermitWon" Value="1" />
+				<Variable Name="Zone3CurrencyAlert" Value="1" />
+				<Variable Name="MagicAvailableTag" Value="1" />
+				<Variable Name="Zone3Guard1Greetings" Value="1" />
+				<Variable Name="Zone3Stranger1Greetings" Value="1" />
+				<Variable Name="Zone3Stranger1OnShopLeave" Value="0" />
+				<Variable Name="Zone3Stranger1Challenge" Value="0" />
+				<Variable Name="Zone3Stranger1OnHold" Value="0" />
+				<Variable Name="Zone3Guard5Greetings" Value="1" />
+				<Variable Name="ButcherWon" Value="1" />
+				<Variable Name="Zone4CurrencyAlert" Value="1" />
+				<Variable Name="Zone4WaspGreetings" Value="1" />
+				<Variable Name="Zone4Guard1Greetings" Value="1" />
+				<Variable Name="Zone4Stranger1Greetings" Value="1" />
+				<Variable Name="Zone4Stranger1OnShopLeave" Value="0" />
+				<Variable Name="Zone4Stranger1Challenge" Value="0" />
+				<Variable Name="Zone4Stranger1OnHold" Value="0" />
+				<Variable Name="Zone4Stranger1DifficultyAlert" Value="1" />
+				<Variable Name="Zone4Stranger1OnShopLeaveLoss" Value="0" />
+				<Variable Name="Zone4Stranger1ChallengeLoss" Value="0" />
+				<Variable Name="Zone4Stranger1OnHoldLoss" Value="0" />
+				<Variable Name="Zone4Guard5Greetings" Value="1" />
+				<Variable Name="WaspWon" Value="1" />
+				<Variable Name="Zone5CurrencyAlert" Value="1" />
+				<Variable Name="Zone5Guard1Greetings" Value="1" />
+				<Variable Name="Zone5Stranger1Greetings" Value="1" />
+				<Variable Name="Zone5Stranger1OnShopLeave" Value="0" />
+				<Variable Name="Zone5Stranger1Challenge" Value="0" />
+				<Variable Name="Zone5Stranger1OnHold" Value="0" />
+				<Variable Name="Zone5Guard5Greetings" Value="1" />
+				<Variable Name="FreeReminderShown" Value="0" />
+				<Variable Name="UpgradeToLevelReminderShown" Value="0" />
+				<Variable Name="LowFpsWarningShown" Value="0" />
+				<Variable Name="lang_FirstLaunch_Shown" Value="1" />
+				<Variable Name="Zone6CurrencyAlert" Value="1" />
+				<Variable Name="UpdateTo1'5'3'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'5'4'0Mark" Value="1" />
+				<Variable Name="promo_FirstPayment_Flag" Value="0" />
+				<Variable Name="SurvivalsInARowCount" Value="1" />
+				<Variable Name="FirstSuperItemFlag" Value="1" />
+				<Variable Name="DiscipleFlag" Value="0" />
+				<Variable Name="CurrentCoinItem" Value="Chest_Coins_6" />
+				<Variable Name="UpdateTo1'6'0'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'6'1'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'6'1'1Mark" Value="1" />
+				<Variable Name="Zone3ChallengeUnlock" Value="1" />
+				<Variable Name="Zone4ChallengeUnlock" Value="1" />
+				<Variable Name="Zone5ChallengeUnlock" Value="1" />
+				<Variable Name="Zone3DuelUnlock" Value="1" />
+				<Variable Name="Zone4DuelUnlock" Value="1" />
+				<Variable Name="Zone5DuelUnlock" Value="1" />
+				<Variable Name="UpdateTo1'6'1'2Mark" Value="1" />
+				<Variable Name="BestAcquiredArmorLevel" Value="3110" />
+				<Variable Name="BestAcquiredHelmLevel" Value="3200" />
+				<Variable Name="BestAcquiredWeaponLevel" Value="3210" />
+				<Variable Name="BestArmor" Value="ARMOR_DRAGONS_BLOOD" />
+				<Variable Name="UpdateTo1'6'2'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'6'3'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'6'4'0Mark" Value="1" />
+				<Variable Name="Avatar_Notification" Value="character_may_1_small" />
+				<Variable Name="Avatar_Assistant_1" Value="character_may_1" />
+				<Variable Name="Avatar_Assistant_2" Value="character_may_2" />
+				<Variable Name="Avatar_Assistant_3" Value="character_may_3" />
+				<Variable Name="Avatar_Assistant_4" Value="character_may_4" />
+				<Variable Name="Avatar_Assistant_5" Value="character_may_5" />
+				<Variable Name="Title_Assistant" Value="characterMay" />
+				<Variable Name="CurrentZone" Value="ZONE_6" />
+				<Variable Name="BestAcquiredRangedLevel" Value="3200" />
+				<Variable Name="BestAcquiredMagicLevel" Value="3100" />
+				<Variable Name="UpdateTo1'7'0'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'0'1Mark1" Value="1" />
+				<Variable Name="UpdateTo1'7'1'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'1'1Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'2'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'3'0Mark" Value="1" />
+				<Variable Name="promo_FirstPayment_Image" Value="pile_coins_platinum" />
+				<Variable Name="LastRealPurchaseTime" Value="1419443325" />
+				<Variable Name="promo_Multiplier" Value="2" />
+				<Variable Name="UpdateTo1'7'4'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'5'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'6'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'7'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'7'1Mark" Value="1" />
+				<Variable Name="UpdateTo1'7'8'0Mark" Value="1" />
+				<Variable Name="EclipseModeEnabled" Value="2" />
+				<Variable Name="EclipseModeTutorialFight" Value="ZONE_5|Survival|" />
+				<Variable Name="ForgeEnabled" Value="2" />
+				<Variable Name="ABNewUserFlag" Value="1" />
+				<Variable Name="UpdateTo1'8'0'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'8'1'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'8'1'1Mark" Value="1" />
+				<Variable Name="UpdateTo1'8'1'2Mark" Value="1" />
+				<Variable Name="Zone6StartDialog" Value="1" />
+				<Variable Name="UpdateTo1'3'0'0Wipe" Value="1" />
+				<Variable Name="UpdateTo1'6'0'0Wipe" Value="1" />
+				<Variable Name="UpdateTo1'7'0'1Wipe1" Value="1" />
+				<Variable Name="UpdateTo1'8'0'0Wipe" Value="1" />
+				<Variable Name="InEclipseMode" Value="0" />
+				<Variable Name="LastBattleLost" Value="1" />
+				<Variable Name="OurAdRoll" Value="31" />
+				<Variable Name="PubAdRoll" Value="7" />
+				<Variable Name="EclipseModeTutorialPart2" Value="1" />
+				<Variable Name="LevelUpProfileFlag" Value="0" />
+				<Variable Name="WorseWeaponEquippedReminderFlag" Value="0" />
+				<Variable Name="ShopAdviceOnCurrentLevel" Value="0" />
+				<Variable Name="WorseArmorEquippedReminderFlag" Value="0" />
+				<Variable Name="WorseHelmEquippedReminderFlag" Value="0" />
+				<Variable Name="promo_FirstPayment_Item" Value="Pile_Coins_6" />
+				<Variable Name="Zone6Guard1Greetings" Value="1" />
+			</Variables>
+		</Quests>
+		<Counters>
+			<Counter Name="FirstHits" CurrentValue="1707" />
+			<Counter Name="HeadHitRound" CurrentValue="588" />
+			<Counter Name="PerfectRound" CurrentValue="61" />
+			<Counter Name="Unarmed" CurrentValue="9" />
+			<Counter Name="BodyguardsWin" CurrentValue="26" />
+			<Counter Name="HeadKick" CurrentValue="1712" />
+			<Counter Name="Losses" CurrentValue="304" />
+			<Counter Name="StyleAggressive" CurrentValue="100" />
+			<Counter Name="BarelyAliveRounds" CurrentValue="80" />
+			<Counter Name="Combo3" CurrentValue="444" />
+			<Counter Name="Disarm" CurrentValue="164" />
+			<Counter Name="FastRounds" CurrentValue="63" />
+			<Counter Name="Survived3" CurrentValue="71" />
+			<Counter Name="Survived5" CurrentValue="48" />
+			<Counter Name="BlockedRound" CurrentValue="46" />
+			<Counter Name="TournamentsBeaten" CurrentValue="5" />
+			<Counter Name="BossWin" CurrentValue="5" />
+			<Counter Name="LongRounds" CurrentValue="5" />
+			<Counter Name="KickFights" CurrentValue="18" />
+			<Counter Name="Survival1" CurrentValue="1" />
+			<Counter Name="Survived15" CurrentValue="11" />
+			<Counter Name="Combo6" CurrentValue="55" />
+			<Counter Name="Survival2" CurrentValue="4" />
+			<Counter Name="ChallangesBeaten" CurrentValue="4" />
+			<Counter Name="StyleCrazy" CurrentValue="13" />
+			<Counter Name="StyleFantastic" CurrentValue="3" />
+			<Counter Name="Combo10" CurrentValue="4" />
+			<Counter Name="PunchFights" CurrentValue="2" />
+			<Counter Name="Survival5" CurrentValue="6" />
+			<Counter Name="BarelyAliveRoundsEclipse" CurrentValue="1" />
+			<Counter Name="PerfectRoundEclipse" CurrentValue="1" />
+		</Counters>
+		<Achievements>
+			<Achievement Name="achievement_name_perfect_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_losses_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_aggresive_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_firsthits_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_barelyalive_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_headhitrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_maxcombo_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_barelyalive_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_disarm_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_firsthits_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_perfect_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_fastrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bodyguards_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_headhitrounds_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_tournaments_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bosses_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_losses_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_longrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_kickfights_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_unarmed_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_kickfights_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_survivalmax_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_maxcombo_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bodyguards_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_firsthits_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_survivalmax_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_blockedrounds_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_tournaments_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bosses_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_challenges_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_barelyalive_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_crazy_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_fantastic_1" ObtainedReward="true" />
+			<Achievement Name="achievement_name_disarm_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_headhitrounds_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bodyguards_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_tournaments_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_fastrounds_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_perfect_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_losses_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_maxcombo_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_bosses_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_challenges_2" ObtainedReward="true" />
+			<Achievement Name="achievement_name_blockedrounds_2" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Bodyguards_4" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Tournaments_4" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Boss_4" ObtainedReward="true" />
+			<Achievement Name="achievement_name_challenges_3" ObtainedReward="true" />
+			<Achievement Name="achievement_name_punchfights_1" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Bodyguards_5" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Boss_5" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Tournaments_5" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Challenges_4" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Survivals_5" ObtainedReward="true" />
+			<Achievement Name="achievement_name_longrounds_2" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Tournaments_1" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Tournaments_2" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Tournaments_3" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Survivals_1" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Survivals_2" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Challenges_1" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Challenges_2" ObtainedReward="true" />
+			<Achievement Name="Achievement_Name_Challenges_3" ObtainedReward="true" />
+		</Achievements>
+		<Shop>
+			<Lock Name="ZONE_2" />
+			<Lock Name="ZONE_3" />
+			<Lock Name="ZONE_4" />
+			<Lock Name="ZONE_5" />
+			<Lock Name="ZONE_6" />
+			<Lock Name="ZONE_6_DONATE" />
+		</Shop>
+		<RepostAchievements />
+		<Timers />
+		<MapButtons>
+			<Button Name="EclipseModeOn" Image="sun_icon" X="584" Y="600" Timer="0" />
+		</MapButtons>
+		<Currencies ForgeMaterial1="6477" ForgeMaterial2="239" ForgeMaterial3="0" />
+		<AbGroups />
+		<Perks>
+			<Perk Level="2" Name="PERK_DOUBLE_SWEEP" />
+			<Perk Level="3" Name="PERK_DESPERATE" UpgradeLevel="1" />
+			<Perk Level="4" Name="PERK_DOUBLE_JUMP_KICK" />
+			<Perk Level="5" Name="PERK_ROCK" UpgradeLevel="4" />
+			<Perk Level="7" Name="PERK_FURIOUS" UpgradeLevel="4" />
+			<Perk Level="8" Name="PERK_ELBOW_STRIKE" />
+			<Perk Level="11" Name="PERK_TWO_FOOT_JUMP_KICK" />
+			<Perk Level="13" Name="PERK_CONCUSSION" UpgradeLevel="6" />
+			<Perk Level="14" Name="PERK_BACK_FLIP_KICK" />
+			<Perk Level="17" Name="PERK_SUPLEX" />
+			<Perk Level="20" Name="PERK_EAGLE_EYE" UpgradeLevel="6" />
+			<Perk Level="26" Name="PERK_STEEL_FOOT" UpgradeLevel="3" />
+			<Perk Level="32" Name="PERK_OVERCHARGE" UpgradeLevel="1" />
+		</Perks>
+		<PerkHistory>
+			<Level Value="2" Perk="PERK_DOUBLE_SWEEP" />
+			<Level Value="3" Perk="PERK_DESPERATE" />
+			<Level Value="4" Perk="PERK_DOUBLE_JUMP_KICK" />
+			<Level Value="5" Perk="PERK_ROCK" />
+			<Level Value="6" Perk="PERK_ROCK" />
+			<Level Value="7" Perk="PERK_FURIOUS" />
+			<Level Value="8" Perk="PERK_ELBOW_STRIKE" />
+			<Level Value="9" Perk="PERK_FURIOUS" />
+			<Level Value="10" Perk="PERK_ROCK" />
+			<Level Value="11" Perk="PERK_TWO_FOOT_JUMP_KICK" />
+			<Level Value="12" Perk="PERK_ROCK" />
+			<Level Value="13" Perk="PERK_CONCUSSION" />
+			<Level Value="14" Perk="PERK_BACK_FLIP_KICK" />
+			<Level Value="15" Perk="PERK_CONCUSSION" />
+			<Level Value="16" Perk="PERK_FURIOUS" />
+			<Level Value="17" Perk="PERK_SUPLEX" />
+			<Level Value="18" Perk="PERK_CONCUSSION" />
+			<Level Value="19" Perk="PERK_FURIOUS" />
+			<Level Value="20" Perk="PERK_EAGLE_EYE" />
+			<Level Value="21" Perk="PERK_EAGLE_EYE" />
+			<Level Value="22" Perk="PERK_CONCUSSION" />
+			<Level Value="23" Perk="PERK_EAGLE_EYE" />
+			<Level Value="24" Perk="PERK_CONCUSSION" />
+			<Level Value="25" Perk="PERK_EAGLE_EYE" />
+			<Level Value="26" Perk="PERK_STEEL_FOOT" />
+			<Level Value="27" Perk="PERK_EAGLE_EYE" />
+			<Level Value="28" Perk="PERK_CONCUSSION" />
+			<Level Value="29" Perk="PERK_STEEL_FOOT" />
+			<Level Value="30" Perk="PERK_EAGLE_EYE" />
+			<Level Value="31" Perk="PERK_STEEL_FOOT" />
+			<Level Value="32" Perk="PERK_OVERCHARGE" />
+		</PerkHistory>
+		<OpenTricks>
+			<Trick Name="ThrowSuplexProfile" />
+		</OpenTricks>
+	</Warrior>
+</Warriors>
+<Versions>
+	<Version Value="1.8.1" />
+	<DataVersion Value="1.8.1.2" />
+</Versions>

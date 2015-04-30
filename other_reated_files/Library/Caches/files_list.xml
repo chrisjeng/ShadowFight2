@@ -1,0 +1,28 @@
+<Filelist>
+<File value="files_list.xml"/>
+<File value="settings.xml"/>
+<File value="assets/localizations/chn.xml"/>
+<File value="assets/localizations/chn_tr.xml"/>
+<File value="assets/localizations/eng.xml"/>
+<File value="assets/localizations/fra.xml"/>
+<File value="assets/localizations/ger.xml"/>
+<File value="assets/localizations/ita.xml"/>
+<File value="assets/localizations/jpn.xml"/>
+<File value="assets/localizations/kor.xml"/>
+<File value="assets/localizations/por.xml"/>
+<File value="assets/localizations/rus.xml"/>
+<File value="assets/localizations/spa.xml"/>
+<File value="assets/localizations/tur.xml"/>
+<File value="assets/quest_extensions/intermission/story.xml"/>
+<File value="assets/quest_extensions/zone_1/core.xml"/>
+<File value="assets/quest_extensions/zone_1/story.xml"/>
+<File value="assets/quest_extensions/zone_2/core.xml"/>
+<File value="assets/quest_extensions/zone_2/story.xml"/>
+<File value="assets/quest_extensions/zone_3/core.xml"/>
+<File value="assets/quest_extensions/zone_3/story.xml"/>
+<File value="assets/quest_extensions/zone_4/core.xml"/>
+<File value="assets/quest_extensions/zone_4/story.xml"/>
+<File value="assets/quest_extensions/zone_5/core.xml"/>
+<File value="assets/quest_extensions/zone_5/story.xml"/>
+<File value="assets/quest_extensions/zone_6/story.xml"/>
+</Filelist>
